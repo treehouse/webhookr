@@ -1,7 +1,7 @@
 # webhookr: Rails Webhooks Made Easy
 [![CircleCI](https://circleci.com/gh/gerrypower/webhookr.svg?style=svg)](https://circleci.com/gh/gerrypower/webhookr)
 [![Dependency Status](https://gemnasium.com/dark-panda/webhookr.png)](https://gemnasium.com/dark-panda/webhookr)
-[![Code Climate](https://codeclimate.com/github/dark-panda/webhookr.png)](https://codeclimate.com/github/dark-panda/webhookr)
+[![Code Climate](https://codeclimate.com/github/gerrypower/webhookr/badges/gpa.svg)](https://codeclimate.com/github/gerrypower/webhookr)
 [![Coverage Status](https://coveralls.io/repos/github/gerrypower/webhookr/badge.svg)](https://coveralls.io/github/gerrypower/webhookr)
 
 ## <a name="introduction"></a>Introduction
