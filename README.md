@@ -2,7 +2,7 @@
 [![CircleCI](https://circleci.com/gh/gerrypower/webhookr.svg?style=svg)](https://circleci.com/gh/gerrypower/webhookr)
 [![Dependency Status](https://gemnasium.com/dark-panda/webhookr.png)](https://gemnasium.com/dark-panda/webhookr)
 [![Code Climate](https://codeclimate.com/github/dark-panda/webhookr.png)](https://codeclimate.com/github/dark-panda/webhookr)
-[![Coverage Status](https://coveralls.io/repos/dark-panda/webhookr/badge.png?branch=master)](https://coveralls.io/r/dark-panda/webhookr?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/gerrypower/webhookr/badge.svg)](https://coveralls.io/github/gerrypower/webhookr)
 
 ## <a name="introduction"></a>Introduction
 
